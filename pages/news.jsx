@@ -5,4 +5,4 @@ const NewsPage = () => {
   )
 }
 
-export default NewsPage
+export default NewsPage 
