@@ -4,3 +4,4 @@
 
 - SSR
 - SSG
+- ISR
