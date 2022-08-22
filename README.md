@@ -5,6 +5,7 @@
 - Next.js
 - Javascript
 
+## About Next.js
 **Some basic things that Next helps to do**
 
 - SSR
